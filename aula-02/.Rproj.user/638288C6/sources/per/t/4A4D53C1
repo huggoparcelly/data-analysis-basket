@@ -1,0 +1,27 @@
+{
+    "id": "4A4D53C1",
+    "path": "~/Developer/data-analysis-basket/aula-02/leitura-csv-dados-ldb.R",
+    "project_path": "leitura-csv-dados-ldb.R",
+    "type": "r_source",
+    "hash": "3276072550",
+    "contents": "",
+    "dirty": false,
+    "created": 1728675248212.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,0",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1728680608,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728680608338,
+    "read_only": false,
+    "read_only_alternatives": []
+}
